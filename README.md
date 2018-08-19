@@ -87,5 +87,5 @@ L1-1 L2-1 L3-3
 L3-1
 zaz@blackjack /tmp/lem-in $
 ```
-
+For solving this task I used Breadth-first search (BFS) algorithm for traversing graph data structures. 
 #### More about School 42 you can find here: https://en.wikipedia.org/wiki/42_(school)
